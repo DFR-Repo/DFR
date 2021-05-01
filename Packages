@@ -1,8 +1,8 @@
-Package: com.protonfile.ShowAllApps
+Package: com.DFR.ShowAllApps
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
 Section: Addons (Apps Manager)
-Maintainer: ProtonFile <protonfile@hotmail.com>
+Maintainer: DFR <DFR>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs//com.protonfile.ShowAllApps_0.0.1-1+debug_iphoneos-arm.deb
@@ -17,11 +17,11 @@ Name: Show All Apps
 Author: NeutronFile
 Depiction: https://ProtonFile.github.io/depic/ShowAllApps.html
 
-Package: com.protonfile.ShowAllApps
+Package: com.DFR.ShowAllApps
 Architecture: iphoneos-arm
 Version: 0.0.2-1+debug
 Section: Addons (Apps Manager)
-Maintainer: ProtonFile <protonfile@hotmail.com>
+Maintainer: DFR <protonfile@hotmail.com>
 Installed-Size: 744
 Depends: mobilesubstrate
 Filename: ./debs//com.protonfile.ShowAllApps_0.0.2-1+debug_iphoneos-arm.deb
@@ -36,7 +36,7 @@ Name: Show All Apps
 Author: NeutronFile
 Depiction: https://ProtonFile.github.io/depic/ShowAllApps.html
 
-Package: com.protonfile.jbzcarrier
+Package: com.DFR.jbzcarrier
 Architecture: iphoneos-arm
 Version: 1.0-1E
 Section: Addons (Zeppelin)
